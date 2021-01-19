@@ -1,1 +1,3 @@
-# DataSurfer
+Data Surfer (DS) is a foundational framework that can be used in many applications where dependency discovery and traceability capabilities are required, and where complex relationships exist between entities of a model. 
+
+DS is intended to allow the user to locate and examine any data residing in a digital model composed of data objects and their relationships where each relationship is also an object. The user can traverse the data through the relationships in any direction, zoom in and zoom out, filter out the data intended for the presentation, compose the views based on given criteria, and invoke any available stats and reports pertaining the object of interest. 
